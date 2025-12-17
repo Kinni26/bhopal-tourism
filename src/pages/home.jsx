@@ -89,7 +89,7 @@
 
 import React, { useState } from "react";
 import { places as initialPlaces } from "../data/placesData";
-import PlaceCard from "../components/PlaceCard";
+import PlaceCard from "../components/placeCard";
 import { generateReviewSummary } from "../assets/utils/aiReviewSummary";
 import { getRecommendedPlaces } from "../assets/utils/aiRecommendations";
 
