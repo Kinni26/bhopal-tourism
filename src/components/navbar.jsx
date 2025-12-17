@@ -6,7 +6,7 @@ const Navbar = ({ user, onLogout }) => {
       <h1>Bhopal Tourism</h1>
       <div>
         <a href="/">Home</a>
-        <a href="/places">Places</a>
+        {/* <a href="/places">Places</a> */}
         {user ? (
           <>
             <span style={{ marginLeft: "12px" }}>Hello, {user}</span>
@@ -16,8 +16,8 @@ const Navbar = ({ user, onLogout }) => {
           </>
         ) : (
           <>
-            <a href="/login">Login</a>
-            <a href="/signup">Signup</a>
+            {/* <a href="/login">Login</a>
+            <a href="/signup">Signup</a> */}
           </>
         )}
       </div>
