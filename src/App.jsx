@@ -6,7 +6,7 @@ import Home from "./pages/home";
 import Places from "./pages/places";
 import PlaceDetails from "./pages/placeDetails";
 import Login from "./pages/login";
-import Signup from "./pages/signup";
+import Signup from "./pages/signUp";
 import Profile from "./pages/profile";
 import { AuthContext } from "./context/authContext";
 import { places } from "./data/placesData";
