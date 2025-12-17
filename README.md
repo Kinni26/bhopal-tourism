@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,28 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# bhopal-tourism
+React + Bootstrap Tourism website with AI features
+>>>>>>> 9b136b5222f64590bfd9786e23fa843781f45c83 -->
+
+
+
+# Bhopal Tourism 🌍
+
+A React + Vite tourism website built using Bootstrap with AI-powered features.
+
+## Features
+- Tourist places listing
+- Bootstrap responsive UI
+- AI-based recommendations
+- Fast Vite build
+
+## Tech Stack
+- React
+- Vite
+- Bootstrap
+- JavaScript
+
+## Live Demo
+(Coming soon)
