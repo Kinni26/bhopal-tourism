@@ -93,4 +93,4 @@ const PlaceCard = ({ place, onClick }) => {
   );
 };
 
-export default PlaceCard;
+export default placeCard;
