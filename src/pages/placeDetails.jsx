@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import ReviewCard from "../components/ReviewCard";
-import AddReview from "../components/AddReview";
+import ReviewCard from "../components/reviewCard";
+import AddReview from "../components/addReview";
 
 const PlaceDetails = ({ place, onBack }) => {
   const [reviews, setReviews] = useState(place.reviews || []);
